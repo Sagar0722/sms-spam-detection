@@ -1,7 +1,7 @@
-# Task 4: Email Spam Detection with Machine Learning
+# Task 4: Sms Spam Detection with Machine Learning
 
 ## Overview
-Spam mail (junk mail) is a type of email sent to a massive number of users at one time, frequently containing cryptic messages, scams, or phishing content. This project builds an email spam detector using Python and machine learning to classify emails as **spam** or **ham (not spam)**.
+Spam sms (junk sms) is a type of sms sent to a massive number of users at one time, frequently containing cryptic messages, scams, or phishing content. This project builds an sms spam detector using Python and machine learning to classify sms as **spam** or **ham (not spam)**.
 
 ## Dataset
 Download the dataset from Kaggle:
@@ -11,10 +11,10 @@ Save the file as `spam.csv` in this project folder.
 
 ## Project Structure
 ```
-email_spam_detection/
+sms_spam_detection/
 │
-├── email_spam_detection.py     # Main ML script
-├── email_spam_detection.ipynb  # Jupyter Notebook version
+├── sms_spam_detection.py     # Main ML script
+├── sms_spam_detection.ipynb  # Jupyter Notebook version
 ├── requirements.txt            # Python dependencies
 └── README.md                   # This file
 ```
